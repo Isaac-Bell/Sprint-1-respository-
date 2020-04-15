@@ -1,0 +1,19 @@
+In a couple of sentences, how would you describe the command line in plain English? 
+The command line is another way of navagating the files on your computer. Instead of using the GUI (Graphical user interace) to navigate/create/move files they are displayed in text format 
+Can you think of an analogy for it?
+I've tried really hard and no
+
+Did you stick to the timebox guidelines? 
+More or less, i went slighty overboard with some of the command line stuff
+If not, what change would you make next time?
+just stick to exactly what is described in the tasks 
+
+Name 5 commands you used and what they do.
+ls   list all items in current directory
+cd  		-(opens another directory) 	
+Start 		-Opens file
+mkdir		-creates folder	
+Touch 		-creates file 
+
+Did you learn anything unexpected?
+To be honest i didn't know what to expect! So everything is new, so.. i expected to learn new things and i did, so i guess nothing, but everything, unexpected. 

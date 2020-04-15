@@ -1,0 +1,14 @@
+Whats the difference between git and GitHub?
+        Git is a local programme for version control, while github is an online server where developers upload or 
+        "push" different versions of files they might be working on individually or colabratively
+
+Can you think of an analogy to describe them?
+        As described in one of the videos and maybe websites pushing a version from git to github is like a save point of that version,
+         like taking a photo of board game. The photo has a time stamp on it and info of where everything is at that time. A version is
+        like that and allows reference and the ability to restore that version if needed. 
+
+Do you think you would still remember the difference a week from now if you didn't revisit the material?
+        Abosolutely. 
+
+Did you stick to the timebox suggestions? If not, why not?
+        No, i went a bit far into commiting things to github as it was so fun and interseting...
