@@ -17,3 +17,20 @@ How would you describe stage and commit to your non-tech-savvy friend?
         If the command line is like a catupult, staging would be loading the stone into the catupult and commiting would be firing it. The two stages are loading and firing, 
         like staging and commiting. In staging things are loaded to be ready to be commit. This could be muiltple files from jpg or html etc, and commiting is then like saving
         or taking a picture of only the loaded files. 
+
+What is Master?
+        Master is the main trunkline or published version of a remote branch. Master in a local branch is the same, which then can be branched off to work on edits without
+        affecting the master, then after edits are made can be merged together with the master by the git merge command. If you want to work on something in a team that you 
+        need changed on a remote master branch but you don't have access to it, you can fork the entire repository, then clone it down to a local with git clone "url".
+        From there you would want to create a branch with command "git checkout -b (new name)" . Then create or edit the file you want to change, you will want to
+        add the file with git add, then git commit,  afterward, switch back to the master with "git checkout master", then "git merge (new name)" this will merge the two 
+        branches together with your new change. Afterward you can use "git push origin (new name)" which will create a pull request on the original web page ( i think)
+
+Why create a Branch?
+
+        as explained above 
+Do the concepts introduced feel intuitive or difficult to understand?
+
+        For some reason the concept of branches seems intuitive since we all know about trees. And i guess watching enough movies with alternative timelines as helped me 
+        to undesrtand the difference between "entangled" items where if you changed one it automatically affects the other, and "individual" items, where they are 
+        indivuals until brought together. This has helped me understand the difference between local, remote, master and alternate branches. 
