@@ -12,3 +12,8 @@ Do you think you would still remember the difference a week from now if you didn
 
 Did you stick to the timebox suggestions? If not, why not?
         No, i went a bit far into commiting things to github as it was so fun and interseting...
+
+How would you describe stage and commit to your non-tech-savvy friend?
+        If the command line is like a catupult, staging would be loading the stone into the catupult and commiting would be firing it. The two stages are loading and firing, 
+        like staging and commiting. In staging things are loaded to be ready to be commit. This could be muiltple files from jpg or html etc, and commiting is then like saving
+        or taking a picture of only the loaded files. 
