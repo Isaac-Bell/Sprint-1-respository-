@@ -12,3 +12,16 @@ Do you think you would still remember the difference a week from now if you didn
 
 Did you stick to the timebox suggestions? If not, why not?
         No, i went a bit far into commiting things to github as it was so fun and interseting...
+
+
+ Install and Explore Git
+
+What is a GitHub work flow?
+        git hub work flow consists of working on branches wheter its the main branch or another branch, users can clone a version from Github, work on it locally by 
+        making edits or new files, then staging and then finally pushing those files to GitHub, which then can be reviewed and pulled, or merged. 
+
+What did you notice about your own learning? What did you do when you were confused or blocked?
+        i felt quite engaged for most of it , apart from forgetting some of the commands from time to time was a bit frustrating. Sometimes when  i would feel a block i 
+        get a drink of water and other times i would just ready slowly and keep going hoping i would pick it up as i went along 
+Is there anything you'd do differently if you were to repeat the learning exploration again?
+        Not really, it was quiete straight forward folloing along step by step so i don't know how i could have done it differently. 
